@@ -29,7 +29,7 @@ namespace AronGibsonMVCCountriesLab
 
         public static string ValidateAgain() {
             do {
-                Console.WriteLine("Learn about another country?");
+                Console.WriteLine("Learn about another country? y or n?");
                 string again = Console.ReadLine().Trim().ToLower();
                 if (again == "y")
                     return again;

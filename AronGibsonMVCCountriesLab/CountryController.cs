@@ -27,7 +27,7 @@ namespace AronGibsonMVCCountriesLab
                 CountryAction(CountryDb[index]);
 
                 Console.WriteLine("Would you like to learn about another country? y or n");
-                string again = Console.ReadLine();
+                string again = Validate.ValidateAgain();
                 if (again == "n")
                     break;
 
