@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\AronGibsonMVCCountriesLab.exe
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\AronGibsonMVCCountriesLab.deps.json
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\AronGibsonMVCCountriesLab.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\AronGibsonMVCCountriesLab.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\AronGibsonMVCCountriesLab.dll
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\ref\AronGibsonMVCCountriesLab.dll
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\bin\Debug\net5.0\AronGibsonMVCCountriesLab.pdb
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.dll
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\ref\AronGibsonMVCCountriesLab.dll
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.pdb
+C:\Users\aron\source\repos\AronGibsonMVCCountriesLab\AronGibsonMVCCountriesLab\obj\Debug\net5.0\AronGibsonMVCCountriesLab.genruntimeconfig.cache
